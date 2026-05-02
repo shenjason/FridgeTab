@@ -1,0 +1,15 @@
+{
+  "python.defaultInterpreterPath": "/home/feethome/FridgeTabProject/venv_hailo_apps/bin/python",
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": false,
+  "python.formatting.provider": "none",
+  "python.analysis.extraPaths": [
+    "/home/feethome/FridgeTabProject/hailo-apps"
+  ],
+  "python.analysis.typeshedPath": "/home/feethome/FridgeTabProject/venv_hailo_apps/lib/python3.13/site-packages",
+  "pylance.typeCheckingMode": "basic",
+  "[python]": {
+    "editor.defaultFormatter": null,
+    "editor.formatOnSave": false
+  }
+}
